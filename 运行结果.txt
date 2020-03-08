@@ -1,0 +1,48 @@
+constructor
+请输入姓名：
+ml
+请输入身份证号：
+111111222233334444
+生成拷贝类b
+copy constructor
+【类a】
+姓名:ml
+身份证号：111111222233334444
+【类b】
+姓名:ml
+身份证号：111111222233334444
+构造学生信息类stu1:
+constructor
+constructor
+使用a中的信息设置stu1:
+学校名称：sysu
+constructor
+copy constructor
+constructor
+constructor
+constructor
+copy constructor
+【类stu1】
+姓名:ml
+身份证号：111111222233334444
+校名:sysu
+【类stu2】
+姓名:ml
+身份证号：111111222233334444
+校名:sysu
+【类stu3】
+姓名:ml
+身份证号：111111222233334444
+校名:sysu
+类将析构:
+distructor
+distructor
+distructor
+distructor
+distructor
+distructor
+distructor
+distructor
+
+C:\Users\MaLiang\source\repos\c++学习\Debug\c++学习.exe (进程 10572)已退出，代码为 0。
+按任意键关闭此窗口. . .
